@@ -1,0 +1,1 @@
+Code for thermistor and photoresistor. Just replace component in circuit as needed. Connect analog output to P1.3 on MSP430 and ground/VCC where needed. 
